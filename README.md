@@ -1,1 +1,6 @@
-# grupo-02
+# Rolê
+
+--
+
+## Equipe
+Pedro, Jefferson, Maria, Daniel
